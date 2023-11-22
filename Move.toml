@@ -1,0 +1,16 @@
+[package]
+name = "counter-game"
+version = "1.0.0"
+authors = []
+
+[addresses]
+countergame_addr='3161cd0b8bfc838bb0a85810e2bf432c369928e27670e82ba1af993a59dd72ca'
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
