@@ -1,6 +1,4 @@
-# aptos-challenge-counter-game
-
-The Project is Incomplete!
+# Aptos-challenge-counter-game
 
 The UI of the game has these parts: 
 
